@@ -8,7 +8,7 @@ Repositorio de entrenamiento Roat to Gold para la Olímpiada Chilena de Infórma
 ># | Título | Solución
 >------------ | ------------ | -------------
 >A | [H-Index](https://vjudge.net/contest/437901#problem/A) | [código](https://github.com/matiasfernandez1/Road-to-Gold-OCI/blob/main/Clases/Semana%201/A%20-%20H-Index.cpp)
->B | [Sum of the Others](https://vjudge.net/contest/437901#problem/B)  | 
->C | [Maximum Square](https://vjudge.net/contest/437901#problem/C) | 
->D | [Emoogle Balance](https://vjudge.net/contest/437901#problem/D) | 
->E | [Temporarily unavailable](https://vjudge.net/contest/437901#problem/E) | 
+>B | [Sum of the Others](https://vjudge.net/contest/437901#problem/B)  | próximamente
+>C | [Maximum Square](https://vjudge.net/contest/437901#problem/C) | próximamente
+>D | [Emoogle Balance](https://vjudge.net/contest/437901#problem/D) | próximamente
+>E | [Temporarily unavailable](https://vjudge.net/contest/437901#problem/E) | próximamente
