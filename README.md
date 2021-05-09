@@ -5,7 +5,7 @@ Repositorio de entrenamiento Roat to Gold para la Olímpiada Chilena de Infórma
 
 ### [Semana 1 - Implementación 1](https://github.com/matiasfernandez1/Road-to-Gold-OCI/tree/main/Clases/Semana%201)
 **Contest**
-># | Título | Solución
+>\# | Título | Solución
 >------------ | ------------ | -------------
 >A | [H-Index](https://vjudge.net/contest/437901#problem/A) | [código](https://github.com/matiasfernandez1/Road-to-Gold-OCI/blob/main/Clases/Semana%201/A%20-%20H-Index.cpp)
 >B | [Sum of the Others](https://vjudge.net/contest/437901#problem/B)  | próximamente

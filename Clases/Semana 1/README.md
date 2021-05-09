@@ -58,7 +58,7 @@ Tabla
 ## Parte 3 A resolver un [problema](https://vjudge.net/contest/437901#problem/A)
 
 # Contest: [Implementación 1 - Semana 1](https://vjudge.net/contest/437901)
-# | Título | Solución
+\# | Título | Solución
 ------------ | ------------ | -------------
 A | [H-Index](https://vjudge.net/contest/437901#problem/A) | [código](https://github.com/matiasfernandez1/Road-to-Gold-OCI/blob/main/Clases/Semana%201/A%20-%20H-Index.cpp)
 B | [Sum of the Others](https://vjudge.net/contest/437901#problem/B)  | próximamente
