@@ -48,8 +48,8 @@ Mecanografía
 >------------ | -------------
 >n ≤ 10 | O(n!)
 >n ≤ 20 | O(2^n)
->n ≤ 500 | O(n²)
->n ≤ 5000 | O(n³)
+>n ≤ 500 | O(n³)
+>n ≤ 5000 | O(n²)
 >n ≤ 10⁶ | O(nlog(n)) u O(n)
 >n es largo | O(1) u O(log(n))
 Tabla 
